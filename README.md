@@ -47,7 +47,7 @@ The setup script configures your Pi as a USB Ethernet gadget using the `dwc2` / 
 
 ```bash
 # 1. Clone
-git clone https://github.com/<your-username>/rpi-otg-bridge.git
+git clone https://github.com/alan-sun-dev/rpi-otg-bridge.git
 cd rpi-otg-bridge
 
 # 2. Preview (optional)
