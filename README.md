@@ -273,6 +273,3 @@ No external dependencies beyond what's available in the default Raspberry Pi OS 
 
 MIT
 
-## Acknowledgments
-
-Built iteratively with [Claude](https://claude.ai) — from a 200-line prototype to a 1,200+ line production-ready script through multiple rounds of review, scoring, and hardening.
